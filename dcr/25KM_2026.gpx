@@ -7,6 +7,16 @@
       <link href="https://gpx.studio"/>
     </author>
   </metadata>
+  <wpt lat="0" lon="0">
+    <ele>0</ele>
+  </wpt>
+  <wpt lat="0" lon="0">
+    <ele>0</ele>
+  </wpt>
+  <wpt lat="-7.299363" lon="109.959495">
+    <ele>1546.2506368130958</ele>
+    <name>WS 1 | Ndoro Arum</name>
+  </wpt>
   <trk>
     <name>25KM_2026</name>
     <type>running</type>
